@@ -1,0 +1,5 @@
+1. Install Python (Install_Python.bat)
+2. After Install Python Open Install.bat to install all requirements
+3. open run.bat to start the tool 
+* > 
+_* : EnJoy ) > 3 
